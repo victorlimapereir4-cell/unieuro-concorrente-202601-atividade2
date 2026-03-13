@@ -1,17 +1,27 @@
-# Atividade 2 - Soma de valores em paralelo
+# Atividade 2 - Avaliar o desempenho da soma de valores em paralelo
+
+1) Crie a solução serial para somar. Lembre de calcular o tempo de processamento.
+2) Implemente a solução paralela que possa ser executada com 2, 4, 8, 12 threads
+3) Execute o experimento para medir os tempos em paralelo
+4) Construa arquivo excel com a tabela e graficos do Speedup e Eficiência
+5) Construa um relatório de análise dos resultados (verificar orientações do professor em sala)
+6) Crie um repositório público no GitHub incluindo os programas python e o arquivo excel
+7) Responda o questionário no AVA
 
 ## Arquivos
 
-### Exemplo1 - 1 milhão de números
+### Exemplo1 - 1 milhão de números - fase de desenvolvimento
 Arquivo gerado: numero1.txt
 Número de linhas: 1000000
 Soma total dos valores: -88
 
-### Exemplo2 - 10 milhões de números
+### Exemplo2 - 10 milhões de números - fase de análise
 Arquivo gerado: numero2.txt
 Número de linhas: 10000000
 Soma total dos valores: 5384
 
-### Desafio Final
+### Desafio Final (1 ponto extra para o primeiro aluno que entregar o valor correto)
 Arquivo gerado: numerogigante.txt
 Número de linhas: 1000000000
+
+DESAFAFIO FINAL !
